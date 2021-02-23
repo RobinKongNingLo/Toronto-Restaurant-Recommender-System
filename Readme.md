@@ -4,8 +4,11 @@ The Yelp review dataset can be downloaded from https://www.yelp.com/dataset/down
 
 ## Dependencies & Speficiation
 Python: 3.7
+
 Pandas: 0.23.4
+
 Numpy: 1.15.4
+
 PyTorch: 1.1.0
 
 ## Use
